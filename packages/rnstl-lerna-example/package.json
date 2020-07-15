@@ -1,4 +1,6 @@
 {
+  "name": "rnstl-lerna-example",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "android": "react-native run-android",
@@ -6,7 +8,7 @@
     "web": "expo start --web",
     "start": "react-native start",
     "test": "jest",
-    "prestorybook":"rnstl",
+    "prestorybook": "rnstl",
     "storybook": "start-storybook -p 7007"
   },
   "dependencies": {
@@ -20,6 +22,7 @@
     "react-native-gesture-handler": "~1.6.1",
     "react-native-reanimated": "~1.9.0",
     "react-native-screens": "~2.9.0",
+    "react-native-storybook-loader": "2.0.0-alpha.3",
     "react-native-unimodules": "~0.10.1",
     "react-native-web": "~0.11.7"
   },
