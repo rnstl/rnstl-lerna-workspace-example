@@ -10635,10 +10635,10 @@ react-native-screens@~2.2.0:
   dependencies:
     debounce "^1.2.0"
 
-react-native-storybook-loader@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-storybook-loader/-/react-native-storybook-loader-2.0.1.tgz#cdf44b6ab88d56acc8ad6b573147035c70e6d3c4"
-  integrity sha512-Zm13AetDtG9y+ni14I1RwkvWgzxjK80t0lsR0wQn3h1ThfluU1du5ha+Mp8xxLGNoDYlp6jS1Z3xbO2s/zAMrA==
+react-native-storybook-loader@2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-storybook-loader/-/react-native-storybook-loader-2.0.2.tgz#04890f0f28dd861fc6eb55c2bb3284c62418fcb5"
+  integrity sha512-p39ezu9v3YMQTMuX4x1qxRkAkrB/rmdxUXD0yM0kHoecXita1e+IJD8ZAN1Ulv5HVa91MUtHDXjaMTxinTQPcA==
   dependencies:
     colors "^1.1.2"
     find-up "^4.1.0"
